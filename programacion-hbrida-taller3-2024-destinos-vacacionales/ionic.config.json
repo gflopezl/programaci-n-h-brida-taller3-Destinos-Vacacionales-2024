@@ -1,0 +1,7 @@
+{
+  "name": "programacion-hbrida-taller3-2024-destinos-vacacionales",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

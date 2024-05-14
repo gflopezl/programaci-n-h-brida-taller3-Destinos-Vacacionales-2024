@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">programacion-hbrida-taller3-2024-destinos-vacacionales</string>
+    <string name="title_activity_main">programacion-hbrida-taller3-2024-destinos-vacacionales</string>
+    <string name="package_name">programacion.hbrida.taller3.v2024.destinos.vacacionales</string>
+    <string name="custom_url_scheme">programacion.hbrida.taller3.v2024.destinos.vacacionales</string>
+</resources>
